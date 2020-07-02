@@ -1,0 +1,41 @@
+body
+{
+text-align: center;
+font-family: 'Pangolin', cursive;
+}
+ul{
+margin:50px 500px;}
+
+
+.niv{
+
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+table{
+    margin: 0px 460px;
+}
+td{
+   
+    text-align: center;
+    padding: 10px 10px;
+}
+tr{
+    padding: 50px;
+}
+th{
+    background-color: #4CAF50;
+  color: white;
+}
+h1{
+    font-family:'Yellowtail';
+}
+form{
+    margin: 70px 320px;
+    width: 500px;
+    text-align: center;
+}
+.h33{
+    margin-top: 50px;
+}
